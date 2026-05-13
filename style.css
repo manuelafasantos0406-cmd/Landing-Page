@@ -31,3 +31,6 @@
     text-align: center;
     flex-direction: row;
 }
+body {
+    background-color: rgb(247, 4, 4);
+}
