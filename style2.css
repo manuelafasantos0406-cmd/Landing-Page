@@ -1,5 +1,5 @@
 .collapse {
-    background-color: aqua;
+    background-color: rgb(132, 255, 0);
     flex-direction: row;
     justify-content: center;
     display: flex;
@@ -32,5 +32,7 @@
 }
 
 body {
-    background-color: rgb(247, 4, 4);
+
+  background: linear-gradient(120deg, #ff6b6b, #4d96ff, #c8e6c9);
 }
+

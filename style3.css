@@ -30,7 +30,8 @@
     text-align: center;
     flex-direction: row;
 }
-
 body {
-    background-color: rgb(247, 4, 4);
+
+  background: linear-gradient(120deg, #ff6b6b, #4d96ff, #c8e6c9);
 }
+
