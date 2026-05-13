@@ -1,0 +1,25 @@
+.collapse {
+    background-color: aqua;
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.btn-primary {
+    background-color:black;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+    margin-top: 500px;
+
+}
+.btn-secondry {
+    background-color: aqua;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+}
