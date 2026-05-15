@@ -32,10 +32,17 @@
     flex-direction: row;
 }
 body {
-    background: linear-gradient(120deg, #ff6b6b, #4d96ff, #c8e6c9);
+    background: linear-gradient(120deg, #ffffff,
+    
+    #ffd6a5,
+    #ff8c42);
     }
 
 .principal-mundopet {
-    background: linear-gradient(120deg, #ff6b6b, #4d96ff, #c8e6c9);
-    background: no-repeat      
-}
+    background: linear-gradient(120deg, #ffffff,
+    
+    #ffd6a5,
+    #ff8c42);
+    background-size: no-repeat 
+  
+}    
