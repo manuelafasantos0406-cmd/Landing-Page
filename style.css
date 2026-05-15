@@ -46,3 +46,8 @@ body {
     background-size: no-repeat 
   
 }    
+
+.carrosel-boot{
+    margin: auto;
+    width: 1200px;
+}
